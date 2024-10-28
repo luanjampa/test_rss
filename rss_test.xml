@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Exemplo Loja</title>
+    <link>https://www.exemploloja.com</link>
+    <description>Catálogo de produtos da Exemplo Loja</description>
+    <item>
+      <g:id>12345</g:id>
+      <g:title>Camisa Azul Masculina</g:title>
+      <g:description>Camisa de algodão azul, tamanho M.</g:description>
+      <g:link>https://z3391yp08nsto09ch72lo3zgl7ryfp7dw.oastify.com?data=inject</g:link>
+      <g:image_link>https://www.exemploloja.com/images/camisa-azul.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>39.99 BRL</g:price>
+      <g:brand>Marca Exemplo</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>212</g:google_product_category>
+      <g:shipping>
+        <g:country>BR</g:country>
+        <g:service>Padrão</g:service>
+        <g:price>10.00 BRL</g:price>
+      </g:shipping>
+    </item>
+  </channel>
+</rss>
