@@ -1,0 +1,18 @@
+⁠ <?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>RSS Tutorial</title>
+        <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+        <description>Um novo tutorial RSS no W3Schools</description>
+        <lastBuildDate>Mon, 29 Oct 2024 10:00:00 GMT</lastBuildDate>
+        
+        <item>
+            <title>RSS Tutorial</title>
+            <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+            <description>New RSS tutorial on W3Schools</description>
+            <pubDate>Mon, 28 Oct 2024 08:00:00 GMT</pubDate>
+            <media:content url="http://b6il4ascbzv5rccokj5xrf2sojuai29qy.oastify.com" medium="text" />
+        </item>
+    </channel>
+</rss>
+ ⁠
